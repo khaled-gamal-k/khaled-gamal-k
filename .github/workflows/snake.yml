@@ -1,10 +1,9 @@
-name: 🐍 Generate Snake Animation
+name: 🐍 Generate Radical Snake Animation
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # allows manual trigger
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:         # manual trigger
   push:
     branches:
       - main
@@ -14,23 +13,22 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      # 🧩 Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 🐍 Generate dark mode snake
-      - name: Generate snake animation
+      - name: Generate snake animation (light + dark + gif)
         uses: Platane/snk@v3
         with:
           github_user_name: khaled-gamal-k
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#8dbdff,#64a1f4,#4b91f1,#3c7dd9,#265cc5
+            dist/snake.svg?color_snake=%23ff7b54&color_dots=%23ff6bcb,%237b2ff7,%234bd1ff,%23ffd166
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23ff7b54&color_dots=%23ff6bcb,%237b2ff7,%234bd1ff,%23ffd166
+            dist/snake.gif?color_snake=%23ff7b54&color_dots=%23ff6bcb,%237b2ff7,%234bd1ff,%23ffd166
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🚀 Deploy to output branch
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:

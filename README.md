@@ -46,7 +46,7 @@ I apply clean code principles and architectural patterns like **BLoC**, **MVVM**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaled-gamal-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="165px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-gamal-k&theme=radical&hide_border=false" height="165px"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-gamal-k&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-gamal-k&theme=radical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 
@@ -55,6 +55,14 @@ I apply clean code principles and architectural patterns like **BLoC**, **MVVM**
 ### ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khaled-gamal-k/khaled-gamal-k/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

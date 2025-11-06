@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey! I'm Khaled Gamal</h1>
-<h3 align="center">🚀 Flutter Developer • Mobile App Specialist • UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Flutter Developer • Mobile App Specialist</h3>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=khaled-gamal-k&label=Profile%20views&color=00ff00&style=for-the-badge)](https://github.com/khaled-gamal-k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-gamal-k)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwehor@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00ffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://khaled-gamal-k.github.io/portfolio-flutter/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaled-gamal-k.github.io/portfolio-flutter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-gamal-k)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwehor@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=khaled-gamal-k&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge)](https://github.com/khaled-gamal-k)
 
 </div>
 
@@ -18,6 +18,12 @@ I'm a **Computer Science graduate** passionate about building **high-performance
 I specialize in creating **scalable, maintainable apps** using modern architectural patterns like **BLoC, MVVM, and Clean Architecture**.  
 When I'm not coding, I'm probably exploring new **UI/UX trends** or optimizing app performance! 💻✨
 
+**What drives me:**
+- 🏗️ Building with **Clean Architecture**, **BLoC**, and **MVVM**
+- 🎨 Crafting beautiful, responsive **UI/UX**
+- ⚡ Optimizing for **performance** and **user experience**
+- 🔄 Embracing **best practices** and **continuous learning**
+  
 ---
 
 ### 🔥 **Tech Stack**
@@ -68,11 +74,11 @@ When I'm not coding, I'm probably exploring new **UI/UX trends** or optimizing a
 
 ---
 
-### 🌟 **Portfolio Spotlight**
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_Check_Out_My_Portfolio-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaled-gamal-k.github.io/portfolio-flutter/)
-[![Projects](https://img.shields.io/badge/📱_My_Flutter_Projects-ffff00?style=for-the-badge&logo=flutter&logoColor=black)](https://github.com/khaled-gamal-k?tab=repositories)
+### **Let's build something amazing together!** ✨
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaled-gamal-k.github.io/portfolio-flutter/)
+[![Projects](https://img.shields.io/badge/View_My_Projects-0175C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled-gamal-k?tab=repositories)
 
 </div>
